@@ -1,0 +1,73 @@
+{
+  "contact": {
+    "raw": "123 Anywhere St., Any City\nwww.reallygreatsite.com\nhello@reallygreatsite.com +123-456-7890",
+    "name": "",
+    "email": "hello@reallygreatsite.com",
+    "phone": "+123-456-7890",
+    "address": "123 Anywhere St., Any City",
+    "website": "www.reallygreatsite.com"
+  },
+  "education": [
+    {
+      "institution": "Borcelle University",
+      "degree": "Bachelor in Computer Engineering",
+      "field_of_study": "",
+      "start_date": "2019",
+      "end_date": "2022",
+      "grade": ""
+    },
+    {
+      "institution": "University",
+      "degree": "Master in Computer Engineering",
+      "field_of_study": "",
+      "start_date": "2018",
+      "end_date": "2019",
+      "grade": ""
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Ginyard International Co.",
+      "position": "Junior software developer",
+      "start_date": null,
+      "end_date": null,
+      "duration_months": null,
+      "description": [
+        "set-up, maintenance and ongoing development of continuous build/ integration infrastructure",
+        "developing pipeline for computer vision applications",
+        "optimize the existing environments/structure",
+        "establish and strengthen the security notification and management tools",
+        "participate in technical discussions to aid system design, analysis, and troubleshooting"
+      ]
+    },
+    {
+      "company": "Larana. Inc.",
+      "position": "Senior Devops engineer",
+      "start_date": null,
+      "end_date": null,
+      "duration_months": null,
+      "description": [
+        "Deliver the project from design to testing, including new programs, enhancements, and modifications",
+        "Monitor the performance and test the server",
+        "Participate in estimation and planning sessions",
+        "Work closely with the Product team to deliver quality features in high-quality code and best practices",
+        "Contribute to development of technical project documentation and user documentation",
+        "Drive major architectural changes as we scale to improve our engineering velocity"
+      ]
+    }
+  ],
+  "skills": [
+    "knowledge and hand-on experience with operating systems (maintenance, troubleshooting)",
+    "strong ops skills and support mindset",
+    "deep understanding of modern monitoring concepts",
+    "experience with databases"
+  ],
+  "certifications": [],
+  "projects": [],
+  "publications": [],
+  "languages": [
+    "English",
+    "German",
+    "Chinese"
+  ]
+}

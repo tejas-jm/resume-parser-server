@@ -1,0 +1,43 @@
+{
+  "contact": {
+    "name": "",
+    "email": "",
+    "phone": "+917093716221",
+    "location": "",
+    "linkedin": "",
+    "github": "",
+    "portfolio": ""
+  },
+  "education": [],
+  "work_experience": [],
+  "projects": [
+    {
+      "name": "",
+      "description": "",
+      "role": "",
+      "start_date": "",
+      "end_date": "",
+      "technologies": []
+    }
+  ],
+  "skills": [
+    "Data Analyst",
+    "Image Forensics",
+    "FormFix",
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "Competitive Programming"
+  ],
+  "certifications": [],
+  "languages": [
+    {
+      "language": "",
+      "proficiency": ""
+    }
+  ],
+  "other_sections": {
+    "interests": "Open-source contributions, Yoga",
+    "awards": "Dean’s List, 2022"
+  }
+}

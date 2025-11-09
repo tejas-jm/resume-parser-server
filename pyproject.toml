@@ -1,0 +1,15 @@
+[project]
+name = "untitled-folder-2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "docling>=2.61.1",
+    "langfuse>=3.9.1",
+    "langgraph>=1.0.2",
+    "pillow>=11.3.0",
+    "torch>=2.9.0",
+    "torchvision>=0.24.0",
+    "transformers>=4.57.1",
+]

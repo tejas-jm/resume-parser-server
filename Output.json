@@ -1,0 +1,46 @@
+{
+  "contact": {
+    "name": "Tejas JM",
+    "email": "mtejas12310@gmail.com",
+    "phone": "+917093716221",
+    "location": "Hyderabad",
+    "linkedin": "linkedin.com/in/tejas-jm/",
+    "github": "",
+    "portfolio": ""
+  },
+  "education": [],
+  "work_experience": [],
+  "projects": [
+    {
+      "name": "Image Forensics",
+      "description": "Developed an innovative system utilizing CNNs to accurately classify authentic images, AI-generated content and edited visuals, achieving a remarkable 96% accuracy.",
+      "role": "",
+      "start_date": "",
+      "end_date": "",
+      "technologies": [
+        "Python",
+        "TensorFlow"
+      ]
+    },
+    {
+      "name": "FormFix",
+      "description": "Engineered a real-time exercise form evaluation app using OpenCV, Mediapipe, and Convolutional Neural Networks. Accurately tracked body landmarks during bicep curls, shoulder press, squats, and lateral raises.",
+      "role": "",
+      "start_date": "",
+      "end_date": "",
+      "technologies": [
+        "Python",
+        "OpenCV",
+        "Mediapipe"
+      ]
+    }
+  ],
+  "skills": [],
+  "certifications": [],
+  "languages": [],
+  "other_sections": {
+    "interests": "",
+    "awards": "4th Place in the Regional Round of the GFG Solving For India, Microsoft Certified : Azure Al Fundamentals, Microsoft Certified  :  Azure  Data  Fundamentals,  Meta  Social  Media  Marketing  Professional,  Meta  Certified  Digital  Marketing Associate",
+    "volunteering": "DeepLearning.AI Mentor, GFG Student Chapter Founder and Lead, Matrusri Developer Space Club Lead, IEEE Chapter Secretary, Badminton Team Captain"
+  }
+}
