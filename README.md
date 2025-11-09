@@ -1,4 +1,4 @@
-# 🧠 Resume Parser using Docling, Qwen3, LangGraph & Langfuse
+# 🧠 Resume Parser using Docling, SLM, LangGraph & Langfuse
 
 ## 📄 Overview
 This project implements an **intelligent, layout-aware Resume Parser** that extracts structured data such as contact details, education, experience, projects, skills, and certifications from resumes in **PDF**, **DOCX**, and **DOC** formats.
