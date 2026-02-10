@@ -197,14 +197,6 @@ Accessible via your Langfuse dashboard at `http://localhost:3000`.
 
 ---
 
-## 🧑‍💻 Author
-
-**Tejas JM**  
-AI Developer • Hyderabad, India  
-[GitHub](https://github.com/tejas-jm) | [Portfolio](https://tejasjm.com)
-
----
-
 ## 🪪 License
 
 This project is licensed under the **MIT License** — feel free to modify and use it.
